@@ -1,6 +1,4 @@
-# TTA_img_classification
-
-Test-Time Adaptation For Image Classification
+# Test-Time Adaptation For Image Classification
 
 Authors: Leonardo Giammarella, Enrico Zanetti
 
