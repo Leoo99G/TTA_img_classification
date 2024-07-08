@@ -7,3 +7,7 @@ This project focuses on implementing a test-time adaptation technique for image 
 Experiments to evaluate the performance of the proposed solution are carried out on *Imagenet-A* and *Imagenet-v2* (matched frequency one) datasets.
 
 The file *TTA_image_classification.ipynb* is a self-contained Jupyter notebook with explanations, code and experiments run with results.
+
+The methodology used in this project is illustrated in the diagram below:
+
+![](architecture_diagram.png)
